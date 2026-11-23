@@ -10,4 +10,5 @@ Hi, I’m Bogumił. I build and maintain web applications with PHP and Symfony.
 
 Cześć, jestem Bogumił. Tworzę i rozwijam aplikacje webowe w PHP i Symfony.
 
-[Zobacz moje portfolio](https://bogumil.dev/en?utm_source=github&utm_content=profile-readme)
+[Zobacz moje portfolio](https://bogumil.dev/pl?utm_source=github&utm_content=profile-readme)
+
